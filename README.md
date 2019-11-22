@@ -1,2 +1,2 @@
-# JavaFoundation
-Java基础入门
+# JavaStuding
+Java学习历程
