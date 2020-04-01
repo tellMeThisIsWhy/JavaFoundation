@@ -2,6 +2,7 @@
 ___
 #### 一、WEB.xml文件的配置
 1. **设置<servlet>标签**
+
 设置<servlet-name>、<servlet-class>、<init-param>、<load-on-startup>
 >     <servlet> 
 >         <servlet-name>SpringMVCDispatcherServlet</servlet-name> 
@@ -15,6 +16,7 @@ ___
 >         <load-on-startup>1</load-on-startup>
 >     </servlet> 
 2. __设置<servlet-mapping>标签__
+
 设置<servlet-name><url-pattern>标签
 >     <servlet-mapping> 
 >         <servlet-name>SpringMVCDispatcherServlet</servlet-name> 
